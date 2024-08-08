@@ -83,6 +83,7 @@ public class LibrarySystem {
             System.out.println("4. Find Book by ISBN");
             System.out.println("5. Exit");
             System.out.println("6. Exit");
+            System.out.println("new line added");
 
 
             System.out.print("Choose an option: ");
